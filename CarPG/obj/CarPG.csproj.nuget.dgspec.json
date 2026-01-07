@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ljale\\Desktop\\VSC\\_projects\\CarPG\\CarPG.csproj": {}
+    "C:\\Users\\ljale\\Desktop\\VSC\\_projects\\CarPG\\CarPG.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ljale\\Desktop\\VSC\\_projects\\CarPG\\CarPG.csproj": {
+    "C:\\Users\\ljale\\Desktop\\VSC\\_projects\\CarPG\\CarPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ljale\\Desktop\\VSC\\_projects\\CarPG\\CarPG.csproj",
+        "projectUniqueName": "C:\\Users\\ljale\\Desktop\\VSC\\_projects\\CarPG\\CarPG.csproj",
         "projectName": "CarPG",
-        "projectPath": "c:\\Users\\ljale\\Desktop\\VSC\\_projects\\CarPG\\CarPG.csproj",
+        "projectPath": "C:\\Users\\ljale\\Desktop\\VSC\\_projects\\CarPG\\CarPG.csproj",
         "packagesPath": "C:\\Users\\ljale\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ljale\\Desktop\\VSC\\_projects\\CarPG\\obj\\",
+        "outputPath": "C:\\Users\\ljale\\Desktop\\VSC\\_projects\\CarPG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
