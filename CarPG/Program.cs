@@ -6,7 +6,7 @@ namespace CarPG.Core.GitTest
     {
         public static string Testing()
         {
-            return "This is cool!";
+            return "This is cool!" + " I'm doing code in two places!";
         }
     }
 }
