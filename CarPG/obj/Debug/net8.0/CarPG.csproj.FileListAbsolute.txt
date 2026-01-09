@@ -1,0 +1,30 @@
+D:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.AssemblyInfoInputs.cache
+D:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.AssemblyInfo.cs
+D:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.csproj.CoreCompileInputs.cache
+D:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.sourcelink.json
+d:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\bin\Debug\net8.0\CarPG.exe
+d:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\bin\Debug\net8.0\CarPG.deps.json
+d:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\bin\Debug\net8.0\CarPG.runtimeconfig.json
+d:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\bin\Debug\net8.0\CarPG.dll
+d:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\bin\Debug\net8.0\CarPG.pdb
+d:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.dll
+d:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\refint\CarPG.dll
+d:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.pdb
+d:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.genruntimeconfig.cache
+d:\LA Laptop Backup\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\ref\CarPG.dll
+c:\VSC\_projects\Scripts\CarPG\bin\Debug\net8.0\CarPG.exe
+c:\VSC\_projects\Scripts\CarPG\bin\Debug\net8.0\CarPG.deps.json
+c:\VSC\_projects\Scripts\CarPG\bin\Debug\net8.0\CarPG.runtimeconfig.json
+c:\VSC\_projects\Scripts\CarPG\bin\Debug\net8.0\CarPG.dll
+c:\VSC\_projects\Scripts\CarPG\bin\Debug\net8.0\CarPG.pdb
+c:\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.GeneratedMSBuildEditorConfig.editorconfig
+c:\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.AssemblyInfoInputs.cache
+c:\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.AssemblyInfo.cs
+c:\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.csproj.CoreCompileInputs.cache
+c:\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.sourcelink.json
+c:\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.dll
+c:\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\refint\CarPG.dll
+c:\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.pdb
+c:\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\CarPG.genruntimeconfig.cache
+c:\VSC\_projects\Scripts\CarPG\obj\Debug\net8.0\ref\CarPG.dll
