@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce12cdaef95afa5f752700226ee6ff51a626b788")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c896c842e74ae888e23bcc0bee93872fb34c36a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
