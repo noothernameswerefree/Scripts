@@ -9,6 +9,7 @@ namespace CarPG.Core.GitTest
         {
             Console.WriteLine("Testing");
             Console.WriteLine(Testing());
+            Console.WriteLine("God I hope this got rid of the exe folder...");
         }
 
         public static string Testing()
